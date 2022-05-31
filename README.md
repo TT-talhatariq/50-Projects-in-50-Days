@@ -8,3 +8,4 @@
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Expanding Cards](P1%20-%20Expanding%20Cards)                             | [Live Demo](https://expandingcards-p1.netlify.app) |
 | 02  | [Progress Bars](P2%20-%20Progress%20Step)                             | [Live Demo](https://progress-bar-p2.netlify.app) |
+| 03  | [Hidden Search Bar](P4%20-%20Hidden%20Search)                             | [Live Demo](https://hidden-search-bar-p3.netlify.app) |
