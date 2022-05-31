@@ -6,7 +6,5 @@
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Expanding Cards]()                             | [Live Demo](https://expandingcards-p1.netlify.app)
---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 02  | [Progress Bars]()                             | [Live Demo](https://progress-bar-p2.netlify.app)
- 
+| 01  | [Expanding Cards](P1%20-%20Expanding%20Cards)                             | [Live Demo](https://expandingcards-p1.netlify.app) |
+| 02  | [Progress Bars](P2%20-%20Progress%20Step)                             | [Live Demo](https://progress-bar-p2.netlify.app) |
