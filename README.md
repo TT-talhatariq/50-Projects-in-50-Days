@@ -10,4 +10,4 @@
 | 02  | [Progress Bars](P2%20-%20Progress%20Step)                             | [Live Demo](https://progress-bar-p2.netlify.app) |
 | 03  | [Hidden Search Bar](P4%20-%20Hidden%20Search)                             | [Live Demo](https://hidden-search-bar-p3.netlify.app) |
 | 04  | [Incrementin Counter](P15%20-%20Incrementing%20Counter)                             | [Live Demo](https://incrementing-counter-p4.netlify.app) |
-| 05  | [Incrementin Counter](P15%20-%20Incrementing%20Counter)                             | [Live Demo](https://rotating-nav-p4.netlify.app) |
+| 05  | [Rotating Navigation](P3%20-%20Rotating%20Navigation)                             | [Live Demo](https://rotating-nav-p4.netlify.app) |
