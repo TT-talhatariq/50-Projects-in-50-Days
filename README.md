@@ -12,3 +12,4 @@
 | 04  | [Incrementin Counter](P15%20-%20Incrementing%20Counter)                             | [Live Demo](https://incrementing-counter-p4.netlify.app) |
 | 05  | [Rotating Navigation](P3%20-%20Rotating%20Navigation)                             | [Live Demo](https://rotating-nav-p4.netlify.app) |
 | 06  | [Blurry Loading](P3%20-%20Rotating%20Navigation)                             | [Live Demo](https://rotating-nav-p4.netlify.app) |
+| 07  | [Scroll Bar](P3%20-%20Rotating%20Navigation)                             | [Live Demo](https://scroll-bar-animation-p7.netlify.app) |
