@@ -11,3 +11,4 @@
 | 03  | [Hidden Search Bar](P4%20-%20Hidden%20Search)                             | [Live Demo](https://hidden-search-bar-p3.netlify.app) |
 | 04  | [Incrementin Counter](P15%20-%20Incrementing%20Counter)                             | [Live Demo](https://incrementing-counter-p4.netlify.app) |
 | 05  | [Rotating Navigation](P3%20-%20Rotating%20Navigation)                             | [Live Demo](https://rotating-nav-p4.netlify.app) |
+| 06  | [Blurry Loading](P3%20-%20Rotating%20Navigation)                             | [Live Demo](https://rotating-nav-p4.netlify.app) |
