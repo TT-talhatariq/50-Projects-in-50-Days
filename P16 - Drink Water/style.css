@@ -1,16 +1,81 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:400,600&display=swap');
 
 * {
   box-sizing: border-box;
 }
 
 body {
-  font-family: "Roboto", sans-serif;
+  background-color: #3494e4;
+  font-family: 'Montserrat', sans-serif;
+  display: flex;
+  color: white;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 40px;
+}
+h1 {
+  margin: 10px 0 0;
+  font-size: 40px;
+  font-weight: 400;
+}
+h3 {
+  margin: 10px 0 40px 0;
+  font-size: 26px;
+  font-weight: lighter;
+}
+
+.cup {
+  width: 200px;
+  height: 400px;
+  background-color: aliceblue;
+  color: #3494e4;
+  overflow: hidden;
+  border-radius: 0 0 40px 40px;
+  border: 5px solid #5932e0;
+  display: flex;
+
+  flex-direction: column;
+}
+.cup.cup-small {
+  width: 100px;
+  height: 150px;
+  margin: 0 0 10px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.cup.full {
+  background-color: rgba(98, 196, 245, 1);
+  color: white;
+}
+.cups {
+  display: flex;
+  flex-wrap: wrap;
+  width: 450px;
+  justify-content: space-between;
+}
+p {
+  font-size: 18px;
+}
+
+.remained {
+  font-size: 30px;
   display: flex;
   flex-direction: column;
   align-items: center;
+  flex: 1;
   justify-content: center;
-  height: 100vh;
-  overflow: hidden;
-  margin: 0;
+  text-align: center;
+}
+.percentage {
+  background-color: rgba(98, 196, 245, 1);
+  padding: 10px 8px;
+  height: 0;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 30px;
+  visibility: hidden;
 }
